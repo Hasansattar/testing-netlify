@@ -13,7 +13,7 @@ function App() {
 
   // const name="database data"
   return (<>
-       <h1>hello world</h1>
+       <h1>hello world  BSCY </h1>
 {/* 
       <Header/>
       <About  sample={name} />
